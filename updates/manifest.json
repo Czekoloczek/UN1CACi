@@ -95,6 +95,22 @@
         "https://github.com/Czekoloczek/UN1CACi/releases/download/nightly-20260907-bc6fc96b/UN1CA_3.1.0-bc6fc96_20260907_p3s-sign.zip.03"
       ],
       "version": "3.1.0-bc6fc96"
+    },
+    {
+      "datetime": 1789029260,
+      "device": "p3s",
+      "filename": "UN1CA_3.1.0-f972595_20260910_p3s-sign.zip",
+      "id": "23e4d3101e1263c4868ee0de2623c1418588aa6cfd442d09370348832d7db0ab",
+      "incremental": false,
+      "patch": "2026-08-05",
+      "size": 6308309949,
+      "urls": [
+        "https://github.com/Czekoloczek/UN1CACi/releases/download/nightly-20260910-f972595c/UN1CA_3.1.0-f972595_20260910_p3s-sign.zip.00",
+        "https://github.com/Czekoloczek/UN1CACi/releases/download/nightly-20260910-f972595c/UN1CA_3.1.0-f972595_20260910_p3s-sign.zip.01",
+        "https://github.com/Czekoloczek/UN1CACi/releases/download/nightly-20260910-f972595c/UN1CA_3.1.0-f972595_20260910_p3s-sign.zip.02",
+        "https://github.com/Czekoloczek/UN1CACi/releases/download/nightly-20260910-f972595c/UN1CA_3.1.0-f972595_20260910_p3s-sign.zip.03"
+      ],
+      "version": "3.1.0-f972595"
     }
   ]
 }
