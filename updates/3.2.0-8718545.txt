@@ -1,0 +1,3 @@
+UN1CA nightly 3.2.0-8718545
+Upstream: 8718545d0322854436daea2c99f1e7cf8903f9e1
+Kernel: stock
