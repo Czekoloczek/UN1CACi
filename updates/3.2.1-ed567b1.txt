@@ -1,0 +1,3 @@
+UN1CA nightly 3.2.1-ed567b1
+Upstream: ed567b1bf3df61230548a94d8e8c90390fc789a8
+Kernel: stock
